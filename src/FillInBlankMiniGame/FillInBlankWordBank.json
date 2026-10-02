@@ -1,0 +1,9 @@
+[
+    {
+      "sentence": "Er zit een ___ op de kluis. Als je goed kijkt is deze niet van ___ .",
+      "correctAnswer": ["slot", "staal"],
+      "options": ["kat", "tekening", "slot", "scheur", "open", "staal", "licht"],
+      "blanksCount": 3
+    }
+  ]
+  
